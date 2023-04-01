@@ -7,6 +7,8 @@ public class TestScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        print("Hello world");
+        print("It is notification");
         print("I am player");
     }
 
